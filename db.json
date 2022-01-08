@@ -1,0 +1,39 @@
+{
+  "pizzas": [
+    {
+      "id": 0,
+      "name": "Margherita",
+      "description": "Everyone knows and loves it.The iconic pizza margherita is also known for representing the colours of the Italian flag: red tomato sauce, white mozzarella, and green basil. The combination of these ingredients creates a delicious pizza which has withstood the test of time."
+    },
+    {
+      "id": 1,
+      "name": "Marinara",
+      "description": "Like the margherita pizza, pizza marinara also originated in Naples. This simple pizza is topped with plain marinara sauce, oregano and garlic. Essentially, it is very similar to the margherita pizza but lacks the cheese and basil. Apparently, back in the 1700s and 1800s, pizza marinara was popular with poor sailors and made on their ships as the ingredients used to make it were easily preserved."
+    },
+    {
+      "id": 2,
+      "name": "Pugliese",
+      "description": "Originating in the Italian region of Apulia, pizza pugliese is generally topped with tomato, onion and mozzarella. However, there are many different variations of the pizza pugliese with some versions using oregano, capers and olives. Some recipes call for different cheeses to be used, such as mozzarella, provolone and pecorino and some even suggest that the tomato sauce be omitted completely."
+    },
+    {
+      "id": 3,
+      "name": "Capriciosa",
+      "description": "Originating in the Italian region of Apulia, pizza pugliese is generally topped with tomato, onion and mozzarella. However, there are many different variations of the pizza pugliese with some versions using oregano, capers and olives. Some recipes call for different cheeses to be used, such as mozzarella, provolone and pecorino and some even suggest that the tomato sauce be omitted completely."
+    },
+    {
+      "id": 4,
+      "name": "Prosciutto Crudo e Rucola",
+      "description": "Though it can obviously be enjoyed at any time of the year the prosciutto crudo e rucola pizza is a summertime favourite thanks to its fresh flavours. Made with prosciutto, rocket and your choice of cheese (some of our favourites include parmesan, mozzarella and fior di latte), pizza prosciutto crudo e rucola is a dinner party favourite for being easy to make and universally loved."
+    },
+    {
+      "id": 5,
+      "name": "Melanzane",
+      "description": "One of the best vegetarian pizzas out there, the star ingredient of pizza melanzane is grilled eggplant – after all, melanzane is the Italian word for eggplant. Often complemented with other vegetables like capsicum and potato, parmesan is also essential to a pizza melanzane. There’s something about the way parmesan interacts with eggplant that is truly magical."
+    },
+    {
+      "id": 6,
+      "name": "Salsiccia",
+      "description": "The key ingredient of pizza alla salsiccia is Italian sausage. Savoury, spicy and a little sweet, Italian sausage on a pizza is absolutely divine. You can enjoy it simply with just a tomato base and cheese on top or you can add other extras like fennel, red onion and capsicum. Either way, pizza alla salsiccia makes for a hearty and delicious meal."
+    }
+  ]
+}
